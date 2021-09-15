@@ -11,6 +11,8 @@
   <modules>
     <module>code/beans</module>
     <module>code/routines</module>
+    <module>jobs/process/jobsystem_0.1</module>
+    <module>jobs/process/simplejob_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
